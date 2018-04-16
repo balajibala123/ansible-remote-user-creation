@@ -1,0 +1,13 @@
+---
+
+- hosts: all
+  vars:
+    sudo: false
+    nopasswd: false
+  vars_prompt:
+    - name: username
+      prompt: Input Username(username) for new user
+      private: false
+      when: username is undefined
+  roles:
+    - user_creation

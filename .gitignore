@@ -1,0 +1,4 @@
+inventories/
+host
+*.retry
+*.swp
