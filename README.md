@@ -1,4 +1,4 @@
-# remote-user-creation
+# ansible-remote-user-creation
 ## Getting Started
 
 ### Prerequisites
