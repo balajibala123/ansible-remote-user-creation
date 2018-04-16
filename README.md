@@ -1,4 +1,4 @@
-# remote_user_creation
+# remote-user-creation
 ## Getting Started
 
 ### Prerequisites
